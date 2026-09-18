@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "slider.opacity",
+  "name": "Window Opacity",
+  "version": "1.0.0",
+  "author": "repoleved08",
+  "description": "Transparency sliders for Hyprland windows",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Widget.qml"
+  },
+  "barWidget": {
+    "displayName": "Window Opacity",
+    "description": "Transparency sliders for Hyprland windows",
+    "category": "Appearance",
+    "allowMultiple": false
+  }
+}
