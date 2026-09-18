@@ -24,7 +24,7 @@ them to the values in `~/.config/hypr/looknfeel.lua`.
 From GitHub:
 
 ```bash
-omarchy plugin add https://github.com/<you>/slider.opacity --enable
+omarchy plugin add https://github.com/repoleved08/omarchy-opacity --enable
 ```
 
 The installer clones straight into `~/.config/omarchy/plugins/slider.opacity/`
